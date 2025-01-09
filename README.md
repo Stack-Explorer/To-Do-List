@@ -11,6 +11,13 @@
 2. npm i ejs body-parser express pg nodemon
 3. nodemon app.js (For live local hosting)
 
+## PostgreSQL queries : 
+
+CREATE TABLE todos (
+  id SERIAL PRIMARY KEY,
+  task TEXT NOT NULL
+);
+
 ## Screenshots 
 1. To-DO-Home
 ![To-Do Home](https://github.com/user-attachments/assets/ff9ad32c-bfdf-414e-8d00-9d8f5ee60bf2)
