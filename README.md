@@ -6,9 +6,10 @@
 3. Express.js
 4. PostgreSQL
 
-## Queries to run 
+## Commands to run 
 1. npm init -y
-2. npm i
+2. npm i ejs body-parser express pg nodemon
+3. nodemon app.js (For live local hosting)
 
 ## Screenshots 
 1. To-DO-Home
