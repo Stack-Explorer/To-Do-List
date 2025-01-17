@@ -6,6 +6,8 @@
 3. Express.js
 4. PostgreSQL
 
+Move index.ejs in views folder 
+
 ## Commands to run 
 1. npm init -y
 2. npm i ejs body-parser express pg nodemon dotenv
