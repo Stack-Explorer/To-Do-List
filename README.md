@@ -22,16 +22,6 @@ Ensure to replace
   port:  5432 // default port
 });
 
-
-const pool = new Pool({
-  user: 'your_user', 
-  host: 'your_host', 
-  database: 'your_database', 
-  password: 'your_password', 
-  port:  5432 // default port
-});
-
-
 ## PostgreSQL queries : 
 
 CREATE TABLE todos (
