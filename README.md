@@ -8,7 +8,7 @@
 
 ## Commands to run 
 1. npm init -y
-2. npm i ejs body-parser express pg nodemon
+2. npm i ejs body-parser express pg nodemon dotenv
 3. nodemon app.js (For live local hosting)
 
 Ensure to replace 
